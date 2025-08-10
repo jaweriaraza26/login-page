@@ -1,0 +1,85 @@
+.header{
+    background: linear-gradient(to right, #4a90e2, #50e3c2, rgb(58, 58, 245));
+    
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    flex-wrap: wrap;
+}
+.recipe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #b48282;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(88, 87, 87, 0.1);
+    line-height: 20px;
+    margin: 10px;
+    text-transform: capitalize;
+}
+.recipe-name1{
+    font-size: 20px;
+    font-weight: bold;
+    color: #1a0808;
+    background:linear-gradient(to right, #ecb92d, #5e4916);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(88, 87, 87, 0.1);
+    margin-bottom: 10px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.recipe-name2{
+    font-size: 20px;
+    font-weight: bold;
+    color: #1a0808;
+    background:linear-gradient(to right, #ecb92d, #5e4916);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(88, 87, 87, 0.1);
+    margin-bottom: 10px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.recipe-name3{
+    font-size: 20px;
+    font-weight: bold;
+    color: #1a0808;
+    background:linear-gradient(to right, #ecb92d, #5e4916);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(88, 87, 87, 0.1);
+    margin-bottom: 10px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.recipe-name4{
+    font-size: 20px;
+    font-weight: bold;
+    color: #1a0808;
+    background:linear-gradient(to right, #ecb92d, #5e4916);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(88, 87, 87, 0.1);
+    margin-bottom: 10px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+ul>li{
+    list-style-type: none;
+    padding: 5px 0;
+    text-align: left;
+    color: rgb(51, 48, 48);
+}
+p{
+    font-size: 14px;
+    color: #b85e0a;
+    margin: 5px 0;
+    text-align: justify;}
+    
